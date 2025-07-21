@@ -1,0 +1,61 @@
+PTL-X Open Core Simulation (v1.0)
+Copyright (c) 2025 Breezon Brown
+All Rights Reserved – NohMad LLC
+
+==================================================================
+⚠️ LEGAL NOTICE – STRICT INTELLECTUAL PROPERTY PROTECTION
+==================================================================
+
+This source code and all associated documentation, data outputs, visualizations, and theoretical frameworks constitute a protected intellectual asset of Breezon Brown and NohMad LLC. The core scientific method presented here—PTL-X—is protected under U.S. Provisional Patent No. 63/847,201.
+
+You are granted **revocable, limited rights** to view, reproduce, or adapt this open-core implementation *only* for:
+- Academic study
+- Non-commercial educational purposes
+- Research reproducibility with proper attribution
+
+No rights are granted for:
+- Commercial use or monetization of any kind
+- Clinical or diagnostic application
+- Modification into derivative engines, AI modules, or toolchains
+- Hardware interfacing, biometric input, or real-world integration
+- Distribution of modified or rebranded versions
+
+==================================================================
+🚫 EXCLUDED FROM THIS LICENSE
+==================================================================
+This simulation *excludes* and does not license any portion of the following protected systems:
+
+- Dynamic coefficient adaptation frameworks
+- Cryptographic input validation protocols
+- Bio-recursive collapse detection algorithms
+- Hardware-layer synchronization (EEG, QRNG, fNIRS)
+- Clinical calibration interfaces and scoring metrics
+- Entropy collapse visualization engines
+- Behavioral loop prediction feedback systems
+
+All of the above are proprietary extensions of PTL-X and are **not open source**. Access to these components requires:
+1. Executed NDA
+2. Formal license agreement from NohMad LLC
+
+==================================================================
+📜 ATTRIBUTION REQUIREMENTS
+==================================================================
+Any academic, educational, or derivative reference must cite:
+
+> Brown, B. (2025). *PTL-X: Recursive Temporal Distortion Model*. NohMad LLC. U.S. Patent 63/847,201.
+
+All references must include explicit mention of Breezon Brown as inventor and NohMad LLC as rights holder.
+
+==================================================================
+📩 INQUIRIES & LEGAL CONTACT
+==================================================================
+For licensing, commercial partnerships, or full system access:
+
+Email: NohMad.business@gmail.com  
+GitHub: https://github.com/nohmadllc
+
+Unauthorized use will be prosecuted under Title 17 of the U.S. Code (Copyright Act), applicable international treaties (WIPO, Berne Convention), and U.S. patent law.
+
+This file may not be removed or altered in any distributed version.
+
+==================================================================
